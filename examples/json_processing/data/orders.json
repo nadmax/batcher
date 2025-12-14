@@ -1,0 +1,16 @@
+[
+    {
+        "id": "ORD001",
+        "customer_id": "CUST123",
+        "amount": 99.99,
+        "status": "pending",
+        "created_at": "2024-01-15T10:00:00Z"
+    },
+    {
+        "id": "ORD002",
+        "customer_id": "CUST456",
+        "amount": 149.50,
+        "status": "pending",
+        "created_at": "2024-01-15T11:30:00Z"
+    }
+]
